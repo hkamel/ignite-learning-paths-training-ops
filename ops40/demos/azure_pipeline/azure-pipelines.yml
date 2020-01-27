@@ -20,7 +20,7 @@ variables:
 
   # Production
   aks-cluster-rg: ignite-ops40-rg
-  aks-cluster:   aks-cluster-pre-prod: tailwindtradersaksanut4yqm3zrz6
+  aks-cluster: tailwindtradersaksanut4yqm3zrz6
   ingress: 73ae0e87685543de925d.westeurope.aksapp.io
 
   # Production Database
