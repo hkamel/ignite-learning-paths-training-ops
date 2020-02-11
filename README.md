@@ -1,4 +1,4 @@
-# Ignite Learning Paths - Improving Your Reliability through Modern Operations Practices
+# Ignite Learning Paths - Improving Your Reliability through Modern Operations Practices- Demo
 
 ![Learning Path](https://img.shields.io/badge/Learning%20Path-OPS-fe5e00?logo=microsoft)  ![Session](https://img.shields.io/badge/🗣️Sessions-5-31c754)
 
